@@ -9,7 +9,7 @@
 </br>
 
 ![eduardoandd GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardoandd&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoandd&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoandd&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que utilizo:
 
