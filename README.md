@@ -8,7 +8,7 @@
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](eduardo.andrade.dev@gmail.com)
 </br>
 
-![eduardoandd GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardoandd&show_icons=true&layout=compact&theme=dracula&line_height=10px)
+![eduardoandd GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardoandd&show_icons=true&layout=compact&theme=dracula&line_height=20px)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoandd&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que utilizo:
