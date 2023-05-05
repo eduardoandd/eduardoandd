@@ -1,6 +1,6 @@
 
 
-### Olá! Eu sou o Eduardo Andrade ✋
+### Olá! Eu sou o Eduardo Andrade ✋ Seja bem vindo ao meu ortfólio!
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-andrade-dos-santos-1965b21b1/)
