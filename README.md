@@ -1,6 +1,8 @@
 
 
 ### Olá! Eu sou o Eduardo Andrade ✋ Seja bem vindo ao meu ortfólio!
+A minha ideia é sempre criar soluções que simplifiquem e otimizem a rotina das pessoas, 
+me motivando a continuar aprendendo e prosseguir na área da programação.
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-andrade-dos-santos-1965b21b1/)
