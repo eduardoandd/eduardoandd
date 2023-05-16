@@ -1,6 +1,6 @@
 
 
-### Olá! Eu sou o Eduardo Andrade ✋ Seja bem vindo ao meu ortfólio!
+### Olá! Eu sou o Eduardo Andrade ✋ Seja bem vindo ao meu portfólio!
   A minha ideia é sempre criar soluções que simplifiquem e otimizem a rotina das pessoas, 
   me motivando a continuar aprendendo e prosseguir na área da programação.
 
