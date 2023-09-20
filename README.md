@@ -1,9 +1,8 @@
 
 
 ### Olá! Eu sou o Eduardo Andrade ✋ Seja bem vindo ao meu portifólio!
-  A minha ideia é sempre criar soluções que simplifiquem e otimizem a rotina das pessoas/empresas, 
-  me motivando a continuar aprendendo e prosseguir na área da programação.
-
+  Apaixonado por dados e tecnologia, busco sempre uma solução rápida e rentável para o bem do negócio.
+ Por enquanto capaz de aplicar técnicas de Processamento de Linguagem Natural usando Inteligência Artificial, conceitos de Machine Learning e habilidades de Extração, Transformação e Carregamento(ETL) utilizando a linguagem Python, gerando insights valiosos e assim podendo desenvolver soluções que possam otimizar a rotina das pessoas/empresas, me motivando assim a prosseguir na área.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-andrade-dos-santos-1965b21b1/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](eduardo.andrade.dev@gmail.com)
