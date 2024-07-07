@@ -1,7 +1,6 @@
 
 
-### Olá! Eu sou o Eduardo Andrade ✋ Seja bem vindo ao meu portifólio!
-Extração, Transformação e Carregamento(ETL) utilizando a linguagem Python, gerando insights valiosos e assim podendo desenvolver soluções que possam otimizar a rotina das pessoas/empresas, me motivando assim a prosseguir na área =D
+### Entusiasta em inteligência artificial e suas origens ;)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-andrade-dos-santos-1965b21b1/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](eduardo.andrade.dev@gmail.com)
